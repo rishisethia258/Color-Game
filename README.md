@@ -11,3 +11,5 @@ You will be given an RGB color code and you need to guess the correct color.
 * HTML 
 * CSS
 * JavaScript
+
+Check out the game [here](https://rishisethia258.github.io/Color-Game/)
